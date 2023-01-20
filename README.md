@@ -2,6 +2,9 @@
 
 ## I'm a QA Engineer, with plans to become an auto-tester
 
+### Portfolio
+
+
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-483D8B?style=for-the-badge&logo=Jira&logoColor=00BFFF)
 ![SQL](https://img.shields.io/badge/-SQL-483D8B?style=for-the-badge&logo=MySQL&logoColor=2F4F4F)
@@ -12,3 +15,6 @@
 ![Charles](https://img.shields.io/badge/-Charles-483D8B?style=for-the-badge&logo=CharlesProxy&logoColor=00BFFF)
 ![Python](https://img.shields.io/badge/-Python-483D8B?style=for-the-badge&logo=Python&logoColor=FFD700)
 ![HTML&CSS](https://img.shields.io/badge/-HTML&CSS-483D8B?style=for-the-badge&logo=HTML&logoColor=00BFFF)
+
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-483D8B?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/albert1kkk)
