@@ -11,5 +11,4 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-483D8B?style=for-the-badge&logo=ChromeDevTools&logoColor=00BFFF)
 ![Charles](https://img.shields.io/badge/-Charles-483D8B?style=for-the-badge&logo=CharlesProxy&logoColor=00BFFF)
 ![Python](https://img.shields.io/badge/-Python-483D8B?style=for-the-badge&logo=Python&logoColor=FFD700)
-![HTML](https://img.shields.io/badge/-HTML-483D8B?style=for-the-badge&logo=HTML&logoColor=00BFFF)
-![CSS](https://img.shields.io/badge/-CSS-483D8B?style=for-the-badge&logo=CSS&logoColor=00BFFF)
+![HTML&CSS](https://img.shields.io/badge/-HTML&CSS-483D8B?style=for-the-badge&logo=HTML&logoColor=00BFFF)
