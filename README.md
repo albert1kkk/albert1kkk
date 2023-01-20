@@ -18,3 +18,5 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-483D8B?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/albert1kkk)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albert1kkk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
