@@ -3,10 +3,12 @@
 ## I'm a QA Engineer, with plans to become an auto-tester
 
 ### My CV
-![CV](<a href="https://github.com/albert1kkk/albert1kkk/blob/main/A.Kasimov_QA.pdf">Click</a>)
+<a href="https://github.com/albert1kkk/albert1kkk/blob/main/A.Kasimov_QA.pdf">Click</a>
 
 ### Testing Documentation
-
+  <li><a href="#">Check-lists</a></li>
+  <li><a href="#">Test-cases</a></li>
+  <li><a href="#">Bug-reports</a></li>
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-483D8B?style=for-the-badge&logo=Jira&logoColor=00BFFF)
