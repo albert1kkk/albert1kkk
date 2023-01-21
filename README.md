@@ -6,7 +6,7 @@
 <a href="https://github.com/albert1kkk/albert1kkk/blob/main/A.Kasimov_QA.pdf">Click</a>
 
 ### Testing Documentation
-  <li><a href="#">Check-lists</a></li>
+  <li><a href="https://drive.google.com/file/d/1qPcF0ERw84SKxuCsbXLyraU1vVDAi56s/view">Check-lists</a></li>
   <li><a href="#">Test-cases</a></li>
   <li><a href="#">Bug-reports</a></li>
 
