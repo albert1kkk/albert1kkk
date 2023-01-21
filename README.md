@@ -7,8 +7,8 @@
 
 ### Testing Documentation
   <li><a href="https://github.com/albert1kkk/albert1kkk/tree/main/Portfolio/check-lists">Check-lists</a></li>
-  <li><a href="#">Test-cases</a></li>
-  <li><a href="#">Bug-reports</a></li>
+  <li><a href="https://github.com/albert1kkk/albert1kkk/tree/main/Portfolio/test-cases">Test-cases</a></li>
+  <li><a href="https://github.com/albert1kkk/albert1kkk/tree/main/Portfolio/bug-reports">Bug-reports</a></li>
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-483D8B?style=for-the-badge&logo=Jira&logoColor=00BFFF)
