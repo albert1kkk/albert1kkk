@@ -3,7 +3,7 @@
 ## I'm a QA Engineer, with plans to become an auto-tester
 
 ### My CV
-
+![CV](<a href="https://github.com/albert1kkk/albert1kkk/blob/main/A.Kasimov_QA.pdf">Click</a>)
 
 ### Testing Documentation
 
