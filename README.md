@@ -3,7 +3,7 @@
 ## I'm a QA Engineer, with plans to become an auto-tester
 
 ### My CV
-<a href="https://drive.google.com/file/d/11zdRMpSLxbfa_j2irbjfh-B6IC__j1ju/view?usp=share_link">Click</a>
+<a href="https://drive.google.com/file/d/1xr5if-rikTnokTftxPOLxWSJD3k5tAEu/view?usp=share_link">Click</a>
 
 ### Testing Documentation
   <li><a href="https://github.com/albert1kkk/albert1kkk/tree/main/Portfolio/check-lists">Check-lists</a></li>
